@@ -23,3 +23,6 @@ Your feedback is invaluable in shaping the future development of ArcadeMaker. If
 # Conclusion
 Thank you for your interest in ArcadeMaker! While this demo version is still a work in progress, we hope it provides insight into the potential of GameMaker in C#. Stay tuned for future updates and improvements.
 
+# Open Source
+I'll open source this whole project in the future. Hold on.
+
